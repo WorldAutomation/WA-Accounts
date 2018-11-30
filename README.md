@@ -1,1 +1,1 @@
-# WA-WebSync
+# WA-Wordpress
